@@ -9,7 +9,7 @@ from fastai import *
 from fastai.vision import *
 
 # export_file_url = 'https://www.dropbox.com/s/v6cuuvddq73d1e0/export.pkl?raw=1'
-export_file_url = 'https://1drv.ms/u/s!AlmNcxFLPWDggdpgJUf-Qo7ehNKbNQ'
+export_file_url = 'https://1drv.ms/u/s!AlmNcxFLPWDggdphZajYxzC1x0hNVw'
 export_file_name = 'export.pkl'
 
 classes = ['badminton','baseball','basketball', 'cricket', 'football', 'golf', 'hockey', 'squash', 'swimming','tennis']
